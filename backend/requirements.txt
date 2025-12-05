@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+sqlalchemy
+aiofiles
+python-multipart
+httpx
+feedparser
+beautifulsoup4
+lxml
+python-dateutil
+pydantic
+python-dotenv
